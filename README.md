@@ -1,0 +1,1 @@
+This project is a rebuild of a deconstructed web page. After completing this project I will demonstrate that I know how to build an HTML from the grund up.
